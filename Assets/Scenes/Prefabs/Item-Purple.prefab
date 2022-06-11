@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 1603196937421344684}
   - component: {fileID: 1603196937421344691}
   m_Layer: 0
-  m_Name: Item 3
+  m_Name: Item-Purple
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -108,4 +108,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bbd5e433bc6341848b1ef1e30f8d5199, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  data: {fileID: 11400000, guid: be2d066e301f99942971a40207e3ed61, type: 2}
+  data: {fileID: 11400000, guid: 9afef0c630912e043a782aa2e815dae4, type: 2}
+  collectArea: {fileID: 0}
